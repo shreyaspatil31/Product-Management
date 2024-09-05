@@ -98,6 +98,7 @@ The front-end styles are located in:
 ```bash
 src/main/resources/static/css/styles.css
 ```
+![image](https://github.com/user-attachments/assets/89a59917-3eb4-4598-8b4e-4a3e75cf19e2)
 
 
 ## Contributing
