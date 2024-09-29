@@ -83,7 +83,7 @@ src/
 
 5. Open the browser and navigate to:
    ```
-   http://localhost:8080
+   http://localhost:8089/api
    ```
 
 ## Frontend Usage
@@ -109,5 +109,3 @@ Contributions are welcome! Please create a pull request for any features or bug 
 
 This project is licensed under the MIT License.
 ```
-
-This README provides all necessary information, including setup instructions, API endpoints, technologies used, and project structure.
